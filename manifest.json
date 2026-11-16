@@ -1,0 +1,10 @@
+{
+  "id": "places-wikipedia",
+  "name": "Places - Wikipedia",
+  "version": "0.0.2",
+  "minAppVersion": "1.13.0",
+  "description": "Query nearby Wikipedia articles with VaultQuery and display them in Places.",
+  "author": "Bob Stanton",
+  "authorUrl": "https://github.com/bobstanton",
+  "isDesktopOnly": false
+}

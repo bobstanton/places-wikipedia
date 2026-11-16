@@ -1,0 +1,22 @@
+.places-wikipedia-popup {
+  max-width: 360px;
+}
+
+.places-wikipedia-popup img {
+  display: block;
+  max-width: 100%;
+  max-height: 200px;
+  margin-bottom: 0.75em;
+  border-radius: var(--radius-s);
+  object-fit: contain;
+}
+
+.places-wikipedia-distance {
+  color: var(--text-muted);
+  font-size: var(--font-smallest);
+}
+
+.places-wikipedia-note-button {
+  display: block;
+  margin-top: var(--size-4-2);
+}
